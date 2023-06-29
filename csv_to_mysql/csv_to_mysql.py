@@ -11,7 +11,7 @@ def import_csv_to_mysql(file_path, table_name):
     df.index += 1
     df = df.rename_axis("id")
     # print(df)
-    df.to_sql(table_name, engine, if_exists="append", index=True)
+    df.to_sql(table_name, engine, if_exists="append", index=False)
     print(f"{table_name}表导入成功")
 
 
