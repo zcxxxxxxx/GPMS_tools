@@ -1,4 +1,4 @@
-﻿student_id,topic1_id,topic2_id,topic3_id,topic4_id,select_time,select_status
+﻿user_id,topic1_id,topic2_id,topic3_id,topic4_id,select_time,select_status
 20161963,2022wl023,2022wl026,2022wl040,2022wl054,2021/11/11,1
 20161963,2022wl024,2022wl007,2022wl059,2022wl012,2021/11/17,2
 20161975,2022wl033,2022wl040,2022wl012,2022wl013,2021/11/12,1
