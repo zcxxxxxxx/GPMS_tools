@@ -1,4 +1,4 @@
-﻿topic_id,topic_name,topic_whether_background,topic_havebg_id,topic_havebg_else,topic_category,topic_synopsis,topic_remark,topic_teacher,topic_whether_pass,topic_major,topic_time
+﻿number,name,whether_background,have_bg_id,have_bg_else,category,synopsis,remark,teacher,whether_pass,major,post_time
 2022xj021,分类算法在疾病诊断中的应用,FALSE,,,工程实践/应用型,"分类问题是数据挖掘处理的一个重要组成部分，在机器学习领域，分类问题通常被认为属于监督式学习(supervised learning)，也就是说，分类问题的目标是根据已知样本的某些特征，判断一个新的样本属于哪种已知的样本类。
 
 分类算法在医学、生物学和经济管理等诸多领域都有着广泛的应用。在医学领域，医生和学者们对心血管功能进行定量的判别与预测；探讨肺癌细胞核的有关体视学参数在肺癌诊断分型方面的意义；对因大肠癌而住院的病历按治愈和未愈分两组进行非条件多因素分类分析；通过分类探讨进展期胃癌淋巴结的转移规律等。
